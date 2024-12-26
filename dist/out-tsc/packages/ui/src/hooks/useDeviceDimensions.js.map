@@ -1,0 +1,1 @@
+{"version":3,"file":"useDeviceDimensions.js","sourceRoot":"","sources":["../../../../../../packages/ui/src/hooks/useDeviceDimensions.ts"],"names":[],"mappings":"AAEA,MAAM,CAAC,MAAM,mBAAmB,GAAG,GAAqB,EAAE;IACxD,MAAM,UAAU,GAAG,MAAM,CAAC,WAAW,CAAA;IAErC,MAAM,SAAS,GAAG,MAAM,CAAC,UAAU,CAAA;IAEnC,OAAO,EAAE,UAAU,EAAE,SAAS,EAAE,CAAA;AAClC,CAAC,CAAA"}

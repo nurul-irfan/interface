@@ -1,0 +1,1 @@
+{"version":3,"file":"WalletUniswapContext.d.ts","sourceRoot":"","sources":["../../../../../../../../packages/wallet/src/features/transactions/contexts/WalletUniswapContext.tsx"],"names":[],"mappings":"AACA,OAAO,EAAE,iBAAiB,EAAuB,MAAM,OAAO,CAAA;AAmC9D,wBAAgB,qBAAqB,CAAC,EAAE,QAAQ,EAAE,EAAE,iBAAiB,GAAG,GAAG,CAAC,OAAO,CAkBlF"}

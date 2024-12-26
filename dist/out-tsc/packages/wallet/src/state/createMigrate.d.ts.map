@@ -1,0 +1,1 @@
+{"version":3,"file":"createMigrate.d.ts","sourceRoot":"","sources":["../../../../../../packages/wallet/src/state/createMigrate.ts"],"names":[],"mappings":"AACA,OAAO,KAAK,EAAE,iBAAiB,EAAE,cAAc,EAAE,MAAM,eAAe,CAAA;AAItE,wBAAgB,aAAa,CAC3B,UAAU,EAAE,iBAAiB,GAC5B,CAAC,KAAK,EAAE,cAAc,EAAE,cAAc,EAAE,MAAM,KAAK,OAAO,CAAC,cAAc,CAAC,CAwC5E"}

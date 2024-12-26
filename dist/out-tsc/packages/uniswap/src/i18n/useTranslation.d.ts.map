@@ -1,0 +1,1 @@
+{"version":3,"file":"useTranslation.d.ts","sourceRoot":"","sources":["../../../../../../packages/uniswap/src/i18n/useTranslation.ts"],"names":[],"mappings":"AAAA,OAAO,IAAI,EAAE,EAAE,CAAC,EAAE,MAAM,SAAS,CAAA;AAMjC,KAAK,oBAAoB,GAAG;IAC1B,CAAC,EAAE,OAAO,CAAC,CAAA;IACX,IAAI,EAAE,OAAO,IAAI,CAAA;IACjB,KAAK,EAAE,OAAO,CAAA;CACf,CAAA;AAED,eAAO,MAAM,cAAc,EAAE,MAAM,oBAEf,CAAA"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"useShowSendNetworkNotification.d.ts","sourceRoot":"","sources":["../../../../../../../../../packages/wallet/src/features/transactions/send/hooks/useShowSendNetworkNotification.ts"],"names":[],"mappings":"AAEA,OAAO,EAAE,eAAe,EAAE,MAAM,mCAAmC,CAAA;AAMnE,wBAAgB,8BAA8B,CAAC,EAAE,OAAO,EAAE,EAAE;IAAE,OAAO,CAAC,EAAE,eAAe,CAAA;CAAE,GAAG,IAAI,CAoB/F"}

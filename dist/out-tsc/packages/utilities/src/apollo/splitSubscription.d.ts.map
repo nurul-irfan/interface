@@ -1,0 +1,1 @@
+{"version":3,"file":"splitSubscription.d.ts","sourceRoot":"","sources":["../../../../../../packages/utilities/src/apollo/splitSubscription.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,UAAU,EAAE,QAAQ,EAAS,MAAM,gBAAgB,CAAA;AAE5D,OAAO,EAAE,gBAAgB,EAAE,MAAM,uCAAuC,CAAA;AAExE,wBAAgB,iBAAiB,CAAC,gBAAgB,EAAE,gBAAgB,EAAE,QAAQ,EAAE,QAAQ,GAAG,UAAU,CAWpG"}

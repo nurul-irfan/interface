@@ -1,0 +1,1 @@
+{"version":3,"file":"OrderInput.d.ts","sourceRoot":"","sources":["../../../../../../../../../packages/uniswap/src/data/tradingApi/__generated__/models/OrderInput.ts"],"names":[],"mappings":"AAIA,MAAM,MAAM,UAAU,GAAG;IACrB,KAAK,EAAE,MAAM,CAAC;IACd,WAAW,CAAC,EAAE,MAAM,CAAC;IACrB,SAAS,CAAC,EAAE,MAAM,CAAC;CACtB,CAAC"}

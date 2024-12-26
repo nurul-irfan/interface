@@ -1,0 +1,1 @@
+{"version":3,"file":"TransactionParticipantRow.js","sourceRoot":"","sources":["../../../../../../../../../packages/wallet/src/features/transactions/SummaryCards/DetailsModal/TransactionParticipantRow.tsx"],"names":[],"mappings":"AAAA,OAAO,EAAE,sBAAsB,EAAE,MAAM,sBAAsB,CAAA;AAG7D,MAAM,UAAU,yBAAyB,CAAC,MAAsC;IAC9E,MAAM,IAAI,sBAAsB,CAAC,2BAA2B,CAAC,CAAA;AAC/D,CAAC"}

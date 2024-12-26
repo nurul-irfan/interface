@@ -1,0 +1,1 @@
+{"version":3,"file":"GatingOverrides.d.ts","sourceRoot":"","sources":["../../../../../../../packages/wallet/src/components/gating/GatingOverrides.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAK,MAAM,OAAO,CAAA;AAQzB,wBAAgB,eAAe,IAAI,GAAG,CAAC,OAAO,CAwD7C;AAED,wBAAgB,eAAe,CAAC,EAAE,KAAK,EAAE,EAAE;IAAE,KAAK,EAAE,KAAK,CAAC,SAAS,CAAA;CAAE,GAAG,GAAG,CAAC,OAAO,CAelF"}

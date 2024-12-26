@@ -1,0 +1,2 @@
+export declare const AngleRightSmall: import("../factories/createIcon").GeneratedIcon, AnimatedAngleRightSmall: import("../factories/createIcon").GeneratedIcon;
+//# sourceMappingURL=AngleRightSmall.d.ts.map

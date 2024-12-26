@@ -1,0 +1,1 @@
+{"version":3,"file":"parseReceiveTransaction.d.ts","sourceRoot":"","sources":["../../../../../../../../../packages/wallet/src/features/transactions/history/conversion/parseReceiveTransaction.ts"],"names":[],"mappings":"AAEA,OAAO,EACL,2BAA2B,EAE3B,4BAA4B,EAE7B,MAAM,4DAA4D,CAAA;AAOnE,MAAM,CAAC,OAAO,UAAU,uBAAuB,CAC7C,WAAW,EAAE,WAAW,CAAC,4BAA4B,CAAC,GACrD,2BAA2B,GAAG,SAAS,CAkFzC"}

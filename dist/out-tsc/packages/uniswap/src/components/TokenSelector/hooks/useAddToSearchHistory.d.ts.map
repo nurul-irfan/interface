@@ -1,0 +1,1 @@
+{"version":3,"file":"useAddToSearchHistory.d.ts","sourceRoot":"","sources":["../../../../../../../../packages/uniswap/src/components/TokenSelector/hooks/useAddToSearchHistory.ts"],"names":[],"mappings":"AAEA,OAAO,EAAE,YAAY,EAAE,MAAM,oCAAoC,CAAA;AAKjE,wBAAgB,qBAAqB,IAAI;IAAE,cAAc,EAAE,CAAC,YAAY,EAAE,YAAY,KAAK,IAAI,CAAA;CAAE,CAYhG"}

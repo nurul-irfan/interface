@@ -1,0 +1,1 @@
+{"version":3,"file":"hooks.d.ts","sourceRoot":"","sources":["../../../../../../../packages/wallet/src/features/contracts/hooks.ts"],"names":[],"mappings":"AAGA,OAAO,EAAE,eAAe,EAAE,MAAM,mCAAmC,CAAA;AAKnE,wBAAgB,kBAAkB,CAChC,OAAO,EAAE,MAAM,GAAG,SAAS,EAC3B,OAAO,EAAE,eAAe,GACvB;IACD,OAAO,EAAE,OAAO,CAAA;IAChB,sBAAsB,EAAE,OAAO,CAAA;CAChC,CAmBA"}

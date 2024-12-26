@@ -1,0 +1,1 @@
+{"version":3,"file":"TransferCurrencyNotification.d.ts","sourceRoot":"","sources":["../../../../../../../../packages/wallet/src/features/notifications/components/TransferCurrencyNotification.tsx"],"names":[],"mappings":";AAEA,OAAO,EAAE,8BAA8B,EAAE,MAAM,0CAA0C,CAAA;AAYzF,wBAAgB,4BAA4B,CAAC,EAC3C,YAAY,GACb,EAAE;IACD,YAAY,EAAE,8BAA8B,CAAA;CAC7C,GAAG,GAAG,CAAC,OAAO,CA2Cd"}

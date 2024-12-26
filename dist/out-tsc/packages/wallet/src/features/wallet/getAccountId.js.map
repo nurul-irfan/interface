@@ -1,0 +1,1 @@
+{"version":3,"file":"getAccountId.js","sourceRoot":"","sources":["../../../../../../../packages/wallet/src/features/wallet/getAccountId.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,mBAAmB,EAAE,gBAAgB,EAAE,MAAM,6BAA6B,CAAA;AAEnF,MAAM,UAAU,YAAY,CAAC,OAAgB;IAC3C,OAAO,gBAAgB,CAAC,OAAO,EAAE,mBAAmB,CAAC,SAAS,CAAC,CAAA;AACjE,CAAC"}

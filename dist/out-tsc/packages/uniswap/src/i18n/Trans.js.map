@@ -1,0 +1,1 @@
+{"version":3,"file":"Trans.js","sourceRoot":"","sources":["../../../../../../packages/uniswap/src/i18n/Trans.tsx"],"names":[],"mappings":";AAAA,OAAO,EAAE,KAAK,IAAI,OAAO,EAAE,cAAc,EAAE,MAAM,eAAe,CAAA;AAEhE,MAAM,CAAC,MAAM,KAAK,GAAG,CAAC,CAAC,KAAK,EAAe,EAAE;IAC3C,oEAAoE;IACpE,cAAc,EAAE,CAAA;IAEhB,OAAO,KAAC,OAAO,OAAK,KAAK,YAAG,KAAK,CAAC,QAAQ,GAAW,CAAA;AACvD,CAAC,CAA0B,CAAA"}

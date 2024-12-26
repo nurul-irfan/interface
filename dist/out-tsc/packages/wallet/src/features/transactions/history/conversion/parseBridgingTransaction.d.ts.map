@@ -1,0 +1,1 @@
+{"version":3,"file":"parseBridgingTransaction.d.ts","sourceRoot":"","sources":["../../../../../../../../../packages/wallet/src/features/transactions/history/conversion/parseBridgingTransaction.ts"],"names":[],"mappings":"AAOA,OAAO,EACL,qBAAqB,EAErB,4BAA4B,EAE7B,MAAM,4DAA4D,CAAA;AAWnE,MAAM,CAAC,OAAO,UAAU,wBAAwB,CAC9C,WAAW,EAAE,WAAW,CAAC,4BAA4B,CAAC,GACrD,qBAAqB,GAAG,SAAS,CAyDnC"}

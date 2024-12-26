@@ -1,0 +1,136 @@
+/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/animations/components/AnimatePresencePager.tsx (4,29): File '../../packages/utilities/src/react/hooks.ts' is not under 'rootDir' 'src'. 'rootDir' is expected to contain all source files.
+  The file is in the program because:
+    Imported via 'utilities/src/react/hooks' from file '/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/animations/components/AnimatePresencePager.tsx'
+    Imported via 'utilities/src/react/hooks' from file '../../packages/ui/src/components/UniversalImage/utils.ts'
+    Imported via 'utilities/src/react/hooks' from file '/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/utils/colors/index.ts'
+    Imported via 'utilities/src/react/hooks' from file 'src/components/swipeablecards/BaseSwipeableCardStack.tsx'
+/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/animations/components/AnimatePresencePager.tsx (4,29): File '../../packages/utilities/src/react/hooks.ts' is not listed within the file list of project ''. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via 'utilities/src/react/hooks' from file '/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/animations/components/AnimatePresencePager.tsx'
+    Imported via 'utilities/src/react/hooks' from file '../../packages/ui/src/components/UniversalImage/utils.ts'
+    Imported via 'utilities/src/react/hooks' from file '/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/utils/colors/index.ts'
+    Imported via 'utilities/src/react/hooks' from file 'src/components/swipeablecards/BaseSwipeableCardStack.tsx'
+/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/animations/layout/useLayoutAnimationOnChange.ts (2,36): File '../../packages/utilities/src/react/useHasValueChanged.ts' is not under 'rootDir' 'src'. 'rootDir' is expected to contain all source files.
+/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/animations/layout/useLayoutAnimationOnChange.ts (2,36): File '../../packages/utilities/src/react/useHasValueChanged.ts' is not listed within the file list of project ''. Projects must list all files or use an 'include' pattern.
+/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/components/touchable/TouchableArea.tsx (7,27): File '../../packages/utilities/src/environment/env.ts' is not under 'rootDir' 'src'. 'rootDir' is expected to contain all source files.
+  The file is in the program because:
+    Imported via 'utilities/src/environment/env' from file '/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/components/touchable/TouchableArea.tsx'
+    Imported via 'utilities/src/environment/env' from file '/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/components/checkbox/Checkbox.tsx'
+    Imported via 'utilities/src/environment/env' from file '/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/components/switch/Switch.tsx'
+    Imported via 'utilities/src/environment/env' from file 'src/components/UniversalImage/internal/PlainImage.web.tsx'
+/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/components/touchable/TouchableArea.tsx (7,27): File '../../packages/utilities/src/environment/env.ts' is not listed within the file list of project ''. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via 'utilities/src/environment/env' from file '/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/components/touchable/TouchableArea.tsx'
+    Imported via 'utilities/src/environment/env' from file '/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/components/checkbox/Checkbox.tsx'
+    Imported via 'utilities/src/environment/env' from file '/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/components/switch/Switch.tsx'
+    Imported via 'utilities/src/environment/env' from file 'src/components/UniversalImage/internal/PlainImage.web.tsx'
+/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/components/Unicon/utils.ts (3,27): File '../../packages/utilities/src/addresses/index.ts' is not under 'rootDir' 'src'. 'rootDir' is expected to contain all source files.
+  The file is in the program because:
+    Imported via 'utilities/src/addresses' from file '/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/components/Unicon/utils.ts'
+    Imported via 'utilities/src/addresses' from file 'src/components/Unicon/index.native.tsx'
+    Imported via 'utilities/src/addresses' from file 'src/components/Unicon/index.web.tsx'
+/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/components/Unicon/utils.ts (3,27): File '../../packages/utilities/src/addresses/index.ts' is not listed within the file list of project ''. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via 'utilities/src/addresses' from file '/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/components/Unicon/utils.ts'
+    Imported via 'utilities/src/addresses' from file 'src/components/Unicon/index.native.tsx'
+    Imported via 'utilities/src/addresses' from file 'src/components/Unicon/index.web.tsx'
+/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/components/UniversalImage/UniversalImage.tsx (10,41): File '../../packages/utilities/src/format/urls.ts' is not under 'rootDir' 'src'. 'rootDir' is expected to contain all source files.
+  The file is in the program because:
+    Imported via 'utilities/src/format/urls' from file '/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/components/UniversalImage/UniversalImage.tsx'
+    Imported via 'utilities/src/format/urls' from file '/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/utils/colors/index.ts'
+/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/components/UniversalImage/UniversalImage.tsx (10,41): File '../../packages/utilities/src/format/urls.ts' is not listed within the file list of project ''. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via 'utilities/src/format/urls' from file '/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/components/UniversalImage/UniversalImage.tsx'
+    Imported via 'utilities/src/format/urls' from file '/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/utils/colors/index.ts'
+../../packages/ui/src/components/UniversalImage/utils.ts (2,24): File '../../packages/utilities/src/logger/logger.ts' is not under 'rootDir' 'src'. 'rootDir' is expected to contain all source files.
+  The file is in the program because:
+    Imported via 'utilities/src/logger/logger' from file '../../packages/ui/src/components/UniversalImage/utils.ts'
+    Imported via 'utilities/src/logger/logger' from file '../../packages/utilities/src/format/urls.ts'
+    Imported via 'utilities/src/logger/logger' from file '/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/components/UniversalImage/UniversalImage.tsx'
+    Imported via 'utilities/src/logger/logger' from file 'src/components/UniversalImage/internal/FastImageWrapper.native.tsx'
+../../packages/ui/src/components/UniversalImage/utils.ts (2,24): File '../../packages/utilities/src/logger/logger.ts' is not listed within the file list of project ''. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via 'utilities/src/logger/logger' from file '../../packages/ui/src/components/UniversalImage/utils.ts'
+    Imported via 'utilities/src/logger/logger' from file '../../packages/utilities/src/format/urls.ts'
+    Imported via 'utilities/src/logger/logger' from file '/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/components/UniversalImage/UniversalImage.tsx'
+    Imported via 'utilities/src/logger/logger' from file 'src/components/UniversalImage/internal/FastImageWrapper.native.tsx'
+../../packages/ui/src/theme/fonts.ts (5,29): File '../../packages/utilities/src/platform/index.ts' is not under 'rootDir' 'src'. 'rootDir' is expected to contain all source files.
+  The file is in the program because:
+    Imported via 'utilities/src/platform' from file '../../packages/ui/src/theme/fonts.ts'
+    Imported via 'utilities/src/platform' from file '/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/components/SegmentedControl/SegmentedControl.tsx'
+    Imported via 'utilities/src/platform' from file '../../packages/utilities/src/logger/logger.ts'
+    Imported via 'utilities/src/platform' from file '/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/components/icons/Unitag.tsx'
+    Imported via 'utilities/src/platform' from file '../../packages/ui/src/theme/shadows.ts'
+    Imported via 'utilities/src/platform' from file '/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/components/switch/Switch.tsx'
+    Imported via 'utilities/src/platform' from file 'src/animations/layout/layoutAnimation.native.ts'
+    Imported via 'utilities/src/platform' from file 'src/components/UniversalImage/internal/SvgImage.native.tsx'
+../../packages/ui/src/theme/fonts.ts (5,29): File '../../packages/utilities/src/platform/index.ts' is not listed within the file list of project ''. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via 'utilities/src/platform' from file '../../packages/ui/src/theme/fonts.ts'
+    Imported via 'utilities/src/platform' from file '/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/components/SegmentedControl/SegmentedControl.tsx'
+    Imported via 'utilities/src/platform' from file '../../packages/utilities/src/logger/logger.ts'
+    Imported via 'utilities/src/platform' from file '/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/components/icons/Unitag.tsx'
+    Imported via 'utilities/src/platform' from file '../../packages/ui/src/theme/shadows.ts'
+    Imported via 'utilities/src/platform' from file '/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/components/switch/Switch.tsx'
+    Imported via 'utilities/src/platform' from file 'src/animations/layout/layoutAnimation.native.ts'
+    Imported via 'utilities/src/platform' from file 'src/components/UniversalImage/internal/SvgImage.native.tsx'
+src/utils/needs-small-font.native.ts (4,34): File '../../packages/utilities/src/device/locales.ts' is not under 'rootDir' 'src'. 'rootDir' is expected to contain all source files.
+src/utils/needs-small-font.native.ts (4,34): File '../../packages/utilities/src/device/locales.ts' is not listed within the file list of project ''. Projects must list all files or use an 'include' pattern.
+../../packages/utilities/src/device/locales.ts (1,30): File '../../packages/utilities/src/device/constants.ts' is not under 'rootDir' 'src'. 'rootDir' is expected to contain all source files.
+../../packages/utilities/src/device/locales.ts (1,30): File '../../packages/utilities/src/device/constants.ts' is not listed within the file list of project ''. Projects must list all files or use an 'include' pattern.
+../../packages/utilities/src/environment/constants.ts (3,36): Property '__DEV__' does not exist on type 'Window & typeof globalThis'.
+../../packages/utilities/src/environment/constants.ts (10,65): Property '__DEV__' does not exist on type 'Window & typeof globalThis'.
+../../packages/utilities/src/environment/env.ts (1,40): File '../../packages/utilities/src/errors/index.ts' is not under 'rootDir' 'src'. 'rootDir' is expected to contain all source files.
+  The file is in the program because:
+    Imported via 'utilities/src/errors' from file '../../packages/utilities/src/environment/env.ts'
+    Imported via 'utilities/src/errors' from file '/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/animations/layout/layoutAnimation.ts'
+    Imported via 'utilities/src/errors' from file '/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/components/SegmentedControl/SegmentedControl.tsx'
+    Imported via 'utilities/src/errors' from file '/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/components/Unicon/index.tsx'
+    Imported via 'utilities/src/errors' from file '../../packages/ui/src/components/UniversalImage/internal/PlainImage.tsx'
+    Imported via 'utilities/src/errors' from file '../../packages/utilities/src/logger/Datadog.ts'
+    Imported via 'utilities/src/errors' from file '../../packages/utilities/src/logger/Sentry.ts'
+    Imported via 'utilities/src/errors' from file '/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/components/swipeablecards/ClickableWithinGesture.tsx'
+    Imported via 'utilities/src/errors' from file '/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/components/swipeablecards/SwipeableCardStack.tsx'
+    Imported via 'utilities/src/errors' from file '/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/hooks/useIsShortMobileDevice.ts'
+    Imported via 'utilities/src/errors' from file 'src/animations/layout/layoutAnimation.web.ts'
+    Imported via 'utilities/src/errors' from file '../../packages/ui/src/components/swipeablecards/SwipeableCard.tsx'
+    Imported via 'utilities/src/errors' from file 'src/loading/PulseRipple.tsx'
+    Imported via 'utilities/src/errors' from file '../../packages/utilities/src/device/locales.ts'
+../../packages/utilities/src/environment/env.ts (1,40): File '../../packages/utilities/src/errors/index.ts' is not listed within the file list of project ''. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via 'utilities/src/errors' from file '../../packages/utilities/src/environment/env.ts'
+    Imported via 'utilities/src/errors' from file '/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/animations/layout/layoutAnimation.ts'
+    Imported via 'utilities/src/errors' from file '/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/components/SegmentedControl/SegmentedControl.tsx'
+    Imported via 'utilities/src/errors' from file '/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/components/Unicon/index.tsx'
+    Imported via 'utilities/src/errors' from file '../../packages/ui/src/components/UniversalImage/internal/PlainImage.tsx'
+    Imported via 'utilities/src/errors' from file '../../packages/utilities/src/logger/Datadog.ts'
+    Imported via 'utilities/src/errors' from file '../../packages/utilities/src/logger/Sentry.ts'
+    Imported via 'utilities/src/errors' from file '/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/components/swipeablecards/ClickableWithinGesture.tsx'
+    Imported via 'utilities/src/errors' from file '/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/components/swipeablecards/SwipeableCardStack.tsx'
+    Imported via 'utilities/src/errors' from file '/Users/apple/Desktop/metaflowx/mfx-swap-interface/packages/ui/src/hooks/useIsShortMobileDevice.ts'
+    Imported via 'utilities/src/errors' from file 'src/animations/layout/layoutAnimation.web.ts'
+    Imported via 'utilities/src/errors' from file '../../packages/ui/src/components/swipeablecards/SwipeableCard.tsx'
+    Imported via 'utilities/src/errors' from file 'src/loading/PulseRipple.tsx'
+    Imported via 'utilities/src/errors' from file '../../packages/utilities/src/device/locales.ts'
+../../packages/utilities/src/errors/index.ts (1,30): File '../../packages/utilities/src/primitives/string.ts' is not under 'rootDir' 'src'. 'rootDir' is expected to contain all source files.
+../../packages/utilities/src/errors/index.ts (1,30): File '../../packages/utilities/src/primitives/string.ts' is not listed within the file list of project ''. Projects must list all files or use an 'include' pattern.
+../../packages/utilities/src/logger/Datadog.ts (4,46): File '../../packages/utilities/src/logger/types.ts' is not under 'rootDir' 'src'. 'rootDir' is expected to contain all source files.
+  The file is in the program because:
+    Imported via 'utilities/src/logger/types' from file '../../packages/utilities/src/logger/Datadog.ts'
+    Imported via 'utilities/src/logger/types' from file '../../packages/utilities/src/logger/Sentry.ts'
+    Imported via 'utilities/src/logger/types' from file '../../packages/utilities/src/logger/logger.ts'
+../../packages/utilities/src/logger/Datadog.ts (4,46): File '../../packages/utilities/src/logger/types.ts' is not listed within the file list of project ''. Projects must list all files or use an 'include' pattern.
+  The file is in the program because:
+    Imported via 'utilities/src/logger/types' from file '../../packages/utilities/src/logger/Datadog.ts'
+    Imported via 'utilities/src/logger/types' from file '../../packages/utilities/src/logger/Sentry.ts'
+    Imported via 'utilities/src/logger/types' from file '../../packages/utilities/src/logger/logger.ts'
+../../packages/utilities/src/logger/logger.ts (2,56): File '../../packages/utilities/src/environment/constants.ts' is not under 'rootDir' 'src'. 'rootDir' is expected to contain all source files.
+../../packages/utilities/src/logger/logger.ts (2,56): File '../../packages/utilities/src/environment/constants.ts' is not listed within the file list of project ''. Projects must list all files or use an 'include' pattern.
+../../packages/utilities/src/logger/logger.ts (3,70): File '../../packages/utilities/src/logger/Datadog.ts' is not under 'rootDir' 'src'. 'rootDir' is expected to contain all source files.
+../../packages/utilities/src/logger/logger.ts (3,70): File '../../packages/utilities/src/logger/Datadog.ts' is not listed within the file list of project ''. Projects must list all files or use an 'include' pattern.
+../../packages/utilities/src/logger/logger.ts (4,24): File '../../packages/utilities/src/logger/Sentry.ts' is not under 'rootDir' 'src'. 'rootDir' is expected to contain all source files.
+../../packages/utilities/src/logger/logger.ts (4,24): File '../../packages/utilities/src/logger/Sentry.ts' is not listed within the file list of project ''. Projects must list all files or use an 'include' pattern.
+../../packages/utilities/src/react/useHasValueChanged.ts (1,45): File '../../packages/utilities/src/react/usePreviousWithLayoutEffect.ts' is not under 'rootDir' 'src'. 'rootDir' is expected to contain all source files.
+../../packages/utilities/src/react/useHasValueChanged.ts (1,45): File '../../packages/utilities/src/react/usePreviousWithLayoutEffect.ts' is not listed within the file list of project ''. Projects must list all files or use an 'include' pattern.
+built ui in 39088 ms
+All .d.ts and .d.ts.map files have been removed from `utilities` after building `ui`

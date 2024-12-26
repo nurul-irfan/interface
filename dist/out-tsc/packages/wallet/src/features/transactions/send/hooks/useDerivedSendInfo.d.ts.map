@@ -1,0 +1,1 @@
+{"version":3,"file":"useDerivedSendInfo.d.ts","sourceRoot":"","sources":["../../../../../../../../../packages/wallet/src/features/transactions/send/hooks/useDerivedSendInfo.ts"],"names":[],"mappings":"AAMA,OAAO,EAAE,eAAe,EAAE,MAAM,8CAA8C,CAAA;AAC9E,OAAO,EAAE,gBAAgB,EAAE,MAAM,0DAA0D,CAAA;AAM3F,wBAAgB,kBAAkB,CAAC,KAAK,EAAE,gBAAgB,GAAG,eAAe,CAoG3E"}

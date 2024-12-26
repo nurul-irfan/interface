@@ -1,0 +1,12 @@
+export declare function testActivatePendingAccounts(migration: (state: any) => any, prevSchema: any): void;
+export declare function testAddedHapticSetting(migration: (state: any) => any, prevSchema: any): void;
+export declare function testMovedUserSettings(migration: (state: any) => any, prevSchema: any): void;
+export declare function testRemoveHoldToSwap(migration: (state: any) => any, prevSchema: any): void;
+export declare function testAddCreatedOnboardingRedesignAccount(migration: (state: any) => any, prevSchema: any): void;
+export declare function testRemoveCreatedOnboardingRedesignAccount(migration: (state: any) => any, prevSchema: any): void;
+export declare function testMovedTokenWarnings(migration: (state: any) => any, prevSchema: any): void;
+export declare function testMovedLanguageSetting(migration: (state: any) => any, prevSchema: any): void;
+export declare function testMovedCurrencySetting(migration: (state: any) => any, prevSchema: any): void;
+export declare function testUpdateExploreOrderByType(migration: (state: any) => any, prevSchema: any): void;
+export declare function testUnchecksumDismissedTokenWarningKeys(migration: (state: any) => any, prevSchema: any): void;
+//# sourceMappingURL=walletMigrationsTests.d.ts.map

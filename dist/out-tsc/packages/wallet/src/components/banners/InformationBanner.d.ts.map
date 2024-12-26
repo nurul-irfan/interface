@@ -1,0 +1,1 @@
+{"version":3,"file":"InformationBanner.d.ts","sourceRoot":"","sources":["../../../../../../../packages/wallet/src/components/banners/InformationBanner.tsx"],"names":[],"mappings":";AAGA,KAAK,sBAAsB,GAAG;IAC5B,QAAQ,EAAE,MAAM,CAAA;IAChB,OAAO,EAAE,MAAM,IAAI,CAAA;CACpB,CAAA;AAED,wBAAgB,iBAAiB,CAAC,EAAE,QAAQ,EAAE,OAAO,EAAE,EAAE,sBAAsB,GAAG,GAAG,CAAC,OAAO,CAa5F"}

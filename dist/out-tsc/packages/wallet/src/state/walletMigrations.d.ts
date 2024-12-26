@@ -1,0 +1,19 @@
+export declare function removeWalletIsUnlockedState(state: any): any;
+export declare function removeUniconV2BehaviorState(state: any): any;
+export declare function addRoutingFieldToTransactions(state: any): any;
+export declare function activatePendingAccounts(state: any): any;
+export declare function deleteBetaOnboardingState(state: any): any;
+export declare function deleteExtensionOnboardingState(state: any): any;
+export declare const HAYDEN_ETH_ADDRESS = "0x50EC05ADe8280758E2077fcBC08D878D4aef79C3";
+export declare function deleteDefaultFavoritesFromFavoritesState(state: any): any;
+export declare function addHapticSetting(state: any): any;
+export declare function addExploreAndWelcomeBehaviorHistory(state: any): any;
+export declare function moveUserSettings(state: any): any;
+export declare function deleteHoldToSwapBehaviorHistory(state: any): any;
+export declare function addCreatedOnboardingRedesignAccountBehaviorHistory(state: any): any;
+export declare function moveDismissedTokenWarnings(state: any): any;
+export declare function moveLanguageSetting(state: any): any;
+export declare function moveCurrencySetting(state: any): any;
+export declare function updateExploreOrderByType(state: any): any;
+export declare function removeCreatedOnboardingRedesignAccountBehaviorHistory(state: any): any;
+//# sourceMappingURL=walletMigrations.d.ts.map

@@ -1,0 +1,2 @@
+export declare const LoadingSpinnerInner: import("../factories/createIcon").GeneratedIcon, AnimatedLoadingSpinnerInner: import("../factories/createIcon").GeneratedIcon;
+//# sourceMappingURL=LoadingSpinnerInner.d.ts.map

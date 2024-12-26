@@ -1,0 +1,1 @@
+{"version":3,"file":"useMostRecentSwapTx.d.ts","sourceRoot":"","sources":["../../../../../../../../../packages/wallet/src/features/transactions/swap/hooks/useMostRecentSwapTx.ts"],"names":[],"mappings":"AAEA,OAAO,EAAE,kBAAkB,EAAmB,MAAM,4DAA4D,CAAA;AAGhH,wBAAgB,mBAAmB,CAAC,OAAO,EAAE,OAAO,GAAG,kBAAkB,GAAG,SAAS,CASpF"}

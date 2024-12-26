@@ -1,0 +1,2 @@
+export declare const SeedPhraseIcon: import("../factories/createIcon").GeneratedIcon, AnimatedSeedPhraseIcon: import("../factories/createIcon").GeneratedIcon;
+//# sourceMappingURL=SeedPhraseIcon.d.ts.map

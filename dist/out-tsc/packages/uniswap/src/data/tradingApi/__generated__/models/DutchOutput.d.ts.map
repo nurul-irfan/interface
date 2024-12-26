@@ -1,0 +1,1 @@
+{"version":3,"file":"DutchOutput.d.ts","sourceRoot":"","sources":["../../../../../../../../../packages/uniswap/src/data/tradingApi/__generated__/models/DutchOutput.ts"],"names":[],"mappings":"AAIA,MAAM,MAAM,WAAW,GAAG;IACtB,WAAW,EAAE,MAAM,CAAC;IACpB,SAAS,EAAE,MAAM,CAAC;IAClB,KAAK,EAAE,MAAM,CAAC;IACd,SAAS,EAAE,MAAM,CAAC;CACrB,CAAC"}

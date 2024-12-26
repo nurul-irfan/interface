@@ -1,0 +1,3 @@
+import { ConfirmedSwapTransactionInfo, NFTTradeTransactionInfo, TransactionListQueryResponse, WrapTransactionInfo } from 'uniswap/src/features/transactions/types/transactionDetails';
+export default function parseTradeTransaction(transaction: NonNullable<TransactionListQueryResponse>): ConfirmedSwapTransactionInfo | NFTTradeTransactionInfo | WrapTransactionInfo | undefined;
+//# sourceMappingURL=parseTradeTransaction.d.ts.map

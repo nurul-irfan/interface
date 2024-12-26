@@ -1,0 +1,2 @@
+export declare const EmptyStateTransaction: import("../factories/createIcon").GeneratedIcon, AnimatedEmptyStateTransaction: import("../factories/createIcon").GeneratedIcon;
+//# sourceMappingURL=EmptyStateTransaction.d.ts.map

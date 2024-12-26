@@ -1,0 +1,1 @@
+{"version":3,"file":"topTokens.d.ts","sourceRoot":"","sources":["../../../../../../../packages/uniswap/src/features/dataApi/topTokens.ts"],"names":[],"mappings":"AAKA,OAAO,EAAE,SAAS,EAAE,MAAM,wBAAwB,CAAA;AAClD,OAAO,EAAE,eAAe,EAAE,MAAM,mCAAmC,CAAA;AAEnE,OAAO,EAAE,YAAY,EAAE,MAAM,oCAAoC,CAAA;AAIjE,wBAAgB,gBAAgB,CAAC,WAAW,EAAE,eAAe,GAAG,SAAS,CAAC,YAAY,EAAE,CAAC,CAyDxF"}

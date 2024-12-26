@@ -1,0 +1,1 @@
+{"version":3,"file":"InfoRow.d.ts","sourceRoot":"","sources":["../../../../../../../../../packages/wallet/src/features/transactions/SummaryCards/DetailsModal/InfoRow.tsx"],"names":[],"mappings":"AAAA,OAAO,EAAE,iBAAiB,EAAE,MAAM,OAAO,CAAA;AAIzC,wBAAgB,OAAO,CAAC,EACtB,KAAK,EACL,QAAQ,GACT,EAAE,iBAAiB,GAAG;IACrB,KAAK,EAAE,MAAM,CAAA;CACd,GAAG,GAAG,CAAC,OAAO,CAQd"}

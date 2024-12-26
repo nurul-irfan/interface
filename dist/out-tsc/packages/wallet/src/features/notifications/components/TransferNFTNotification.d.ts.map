@@ -1,0 +1,1 @@
+{"version":3,"file":"TransferNFTNotification.d.ts","sourceRoot":"","sources":["../../../../../../../../packages/wallet/src/features/notifications/components/TransferNFTNotification.tsx"],"names":[],"mappings":";AACA,OAAO,EAAE,yBAAyB,EAAE,MAAM,0CAA0C,CAAA;AAWpF,wBAAgB,uBAAuB,CAAC,EAAE,YAAY,EAAE,EAAE;IAAE,YAAY,EAAE,yBAAyB,CAAA;CAAE,GAAG,GAAG,CAAC,OAAO,CA0ClH"}

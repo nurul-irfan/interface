@@ -1,0 +1,1 @@
+{"version":3,"file":"ClassicOutput.d.ts","sourceRoot":"","sources":["../../../../../../../../../packages/uniswap/src/data/tradingApi/__generated__/models/ClassicOutput.ts"],"names":[],"mappings":"AAIA,OAAO,KAAK,EAAE,OAAO,EAAE,MAAM,WAAW,CAAC;AACzC,MAAM,MAAM,aAAa,GAAG;IACxB,KAAK,CAAC,EAAE,OAAO,CAAC;IAChB,MAAM,CAAC,EAAE,MAAM,CAAC;IAChB,SAAS,CAAC,EAAE,OAAO,CAAC;CACvB,CAAC"}
